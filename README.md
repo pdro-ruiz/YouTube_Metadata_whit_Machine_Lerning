@@ -234,8 +234,4 @@ Este proyecto está bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE)
 
 ## Agradecimientos
 
-A todos los profesores y compañeros de la maestría por su apoyo y colaboración en este proyecto.
-
----
-
-**Nota**: Para cualquier consulta o sugerencia, no dude en ponerse en contacto o abrir una issue en este repositorio.
+A todos los profesores por su paciencia y dedicación, y los compañeros de la maestría por su apoyo.
