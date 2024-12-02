@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pandas
 numpy
 scipy
@@ -18,4 +19,26 @@ wordcloud
 plotly
 umap-learn
 hdbscan
+=======
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+tensorflow
+torch
+lightgbm
+xgboost
+optuna
+nltk
+gensim
+langdetect
+transformers
+matplotlib
+seaborn
+wordcloud
+plotly
+umap-learn
+hdbscan
+>>>>>>> 4c9b743 (Proyecto Git LFS)
 tqdm

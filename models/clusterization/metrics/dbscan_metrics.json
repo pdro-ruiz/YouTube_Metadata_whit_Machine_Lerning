@@ -1,0 +1,11 @@
+{
+    "n_clusters": 3052,
+    "n_noise": 90098,
+    "eps": 2.32,
+    "min_samples": 3,
+    "metric": "euclidean",
+    "algorithm": "auto",
+    "silhouette_score": -0.2951137026014675,
+    "calinski_harabasz_score": 871.5326485859404,
+    "davies_bouldin_score": 0.7969648441078468
+}
