@@ -58,59 +58,59 @@ proyecto/
 ├── train_models.py
 ├── inference_models.py
 ├── logger/
-│           └── logger.py
+│     └── logger.py
 ├── logs/
 ├── main.py
 ├── data/
-│           ├── eda/
-│           │           ├── cleaned/
-│           │           ├── pre-processed/
-│           │           ├── processed/
-│           │           ├── translate/
-│           │           └── vectorized/
-│           ├── industrialized/
-│           │           ├── pre_processed/
-│           │           └── processed/
-│           │                       ├── pkl/
-│           │                       └── vectorizers/
-│           └── raw_data/
+│     ├── eda/
+│     │     ├── cleaned/
+│     │     ├── pre-processed/
+│     │     ├──  processed/
+│     │     ├── translate/
+│     │     └── vectorized/
+│     ├── industrialized/
+│     │         ├──  pre_processed/
+│     │         └── processed/
+│     │                 ├── pkl/
+│     │                 └── vectorizers/
+│     └── raw_data/
 └── models/
     ├── classification_categories/
-    │                   ├── data/
-    │                   ├── weight/
-    │                   ├── metrics/
-    │                   ├── results/
-    │                   └── logistic_regression.py
+    │             ├── data/
+    │             ├── weight/
+    │             ├── metrics/
+    │             ├──  results/
+    │             └── logistic_regression.py
     ├── classification_video_disabled/
-    │                   ├── data/
-    │                   ├── weight/
-    │                   ├── metrics/
-    │                   ├── results/
-    │                   └── mlp.py
+    │             ├── data/
+    │             ├── weight/
+    │             ├── metrics/
+    │             ├── results/
+    │             └──  mlp.py
     ├── regression_like_ratio/
-    │                   ├── data/
-    │                   ├── weight/
-    │                   ├── metrics/
-    │                   ├── results/
-    │                   └── lightgbm_regressor.py
+    │             ├── data/
+    │             ├── weight/
+    │             ├── metrics/
+    │             ├── results/
+    │             └── lightgbm_regressor.py
     ├── regression_number_of_likes/
-    │                   ├── data/
-    │                   ├── weight/
-    │                   ├── metrics/
-    │                   ├── results/
-    │                   └── lightgbm_regressor.py
+    │             ├── data/
+    │             ├── weight/
+    │             ├── metrics/
+    │             ├── results/
+    │             └── lightgbm_regressor.py
     ├── clusterization/
-    │                   ├── weight/
-    │                   ├── metrics/
-    │                   ├── results/
-    │                   ├── pca_clusterization.py
-    │                   └── dbscan_clusterization.py
+    │             ├── weight/
+    │             ├── metrics/
+    │             ├── results/
+    │             ├── pca_clusterization.py
+    │             └── dbscan_clusterization.py
     └── recommendation/
-                        ├── weight/
-                        ├── metrics/
-                        ├── results/
-                        ├── knn_recommend.py
-                        └── knn_recommender.py
+                  ├── weight/
+                  ├── metrics/
+                  ├── results/
+                  ├── knn_recommend.py
+                  └── knn_recommender.py
 ```
 
 ### Descripción de los directorios y archivos principales
@@ -226,8 +226,7 @@ Durante el desarrollo de este proyecto, hemos adquirido valiosos aprendizajes qu
 
 **Pedro Ruiz**
 
-- **Email**: pedro.ruiz@example.com
-- **LinkedIn**: [linkedin.com/in/pedro-ruiz](https://linkedin.com/in/pedro-ruiz)
+- **LinkedIn**: [linkedin.com/in/pedro-ruiz](https://linkedin.com/in/pdro-ruiz/)
 
 ## Licencia
 
