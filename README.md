@@ -226,7 +226,7 @@ Durante el desarrollo de este proyecto, hemos adquirido valiosos aprendizajes qu
 
 **Pedro Ruiz**
 
-- **LinkedIn**: [linkedin.com/in/pedro-ruiz](https://linkedin.com/in/pdro-ruiz/)
+- **LinkedIn**: [linkedin.com/in/pdro-ruiz](https://linkedin.com/in/pdro-ruiz/)
 
 ## Licencia
 
